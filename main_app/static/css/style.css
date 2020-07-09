@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1000px;
+    min-height: 700px;
+    margin: 0, auto;
+}
+
+.title {
+    width: 250px;
+    height: 50px;
+    border: 5px solid black;
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px;
+}
+
+.timeContainer {
+    width: 500px;
+    height: 150px;
+    border: 5px solid black;
+    display: block;
+    margin: 20px auto 0;
+    padding: 30px;
+}
+
+h1 {
+    margin-left: 70px;
+}
